@@ -1,1 +1,1 @@
-first commit
+ukradeno z: https://stackoverflow.com/questions/11352855/communication-between-two-computers-using-python-socket
